@@ -1,6 +1,6 @@
 console.log("Developed By Jash")
-let turnMusic = new Audio("ting.mp3")
-let gameOver = new Audio("gameover.mp3")
+let turnMusic = new Audio("music/ting.mp3")
+let gameOver = new Audio("music/gameover.mp3")
 
 let turn = "X"
 let isGameOver = false
